@@ -1,0 +1,7 @@
+C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\Definitions.BattleTanks.h
+c:\users\thyd\documents\unreal projects\battletank\battletanks\source\battletanks\BattleTanksGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Inc\BattleTanks\BattleTanksGameModeBase.generated.h

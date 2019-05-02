@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleTanks-2422.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\BattleTanksEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\BattleTanks.cpp.obj"
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\BattleTanksGameModeBase.cpp.obj"
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\BattleTanks.init.gen.cpp.obj"
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\BattleTanksGameModeBase.gen.cpp.obj"
+"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\Default.rc2.res"
+/OUT:"C:\Users\thyd\Documents\Unreal Projects\BattleTank\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\UE4Editor-BattleTanks-2422.lib"
+/INCLUDE:IMPLEMENT_MODULE_BattleTanks
